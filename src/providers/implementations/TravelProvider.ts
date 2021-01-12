@@ -29,7 +29,7 @@ class TravelProvider implements ITravelProvider{
             this.consoleLogWithTimeOut("******* ALERT !!! BATTERY LOW 3% ********",10500);
             this.consoleLogWithTimeOut("******* ALERT !!! BATTERY LOW 2% ********",11000);
             this.consoleLogWithTimeOut("******* ALERT !!! BATTERY LOW 1% ********",11500);
-            this.consoleLogWithTimeOut("******* ERROR IN TIME TRAVEL, STOP IN {coloque aqui o ano} ********",12500);
+            this.consoleLogWithTimeOut("******* ERROR IN TIME TRAVEL, STOP IN 333a.C ********",12500);
             this.consoleLogWithTimeOut("******* SHUT DOWN... ********",13000);
 
         }else{
